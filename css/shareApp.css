@@ -1,0 +1,13 @@
+body,div,ul,li,img,p {margin:0;padding:0;}
+body{width:100%;}
+ul li{list-style: none;padding:0;}
+ h3{text-align: center;}
+.container{width:100%;}
+.bg1 {background: url(../img/img/share-bg.jpg) no-repeat center center;height:1649px;width:100%;position:relative;}
+
+.userRange{position: absolute;top:26.5%;left:43.5%;text-align: center;}
+.userRange-user{border: 2px solid red;border-radius:60px;position: absolute;top:-6em;left:-0.3em;width:5em;height:5em;z-index: 30;}
+.xuanyanyu{position:absolute;top:26em;left:3em;width:64%;height:26%;font-size:1.8em;}
+.xuanyanyu span{font-size: 1.2em;width:63%;}
+.tijiao{position:absolute;top:88%;left:0;background: white;height:5.4em;width:100%;}
+.tijiao a img{margin:0 auto;display: block;}

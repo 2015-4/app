@@ -1,0 +1,21 @@
+body,ul,li,div,h1,h2,h3,h4,h5,h6,{margin:0;padding:0;}
+ul li{list-style-type: none;}
+body{width:100%;margin:0 auto;}
+ h3{text-align: center;font-size:1.8em;font-weight:2000;font-family: "微软雅黑";}
+  .header{position:relative;z-index:1;}
+ .content{width:90%;border-radius:10px;margin:0 auto;}
+ form{position:relative;opacity: 0.8;background: white;margin-top:-18.5em;z-index: 30;border-radius: 10px;}
+ form .form-tit{padding-top:0.5em;}
+
+.header .touxiang{position:absolute;left:278px;top:408px;z-index: 20;border:2px solid red;width:80px;height:80px;border-radius: 60px;}
+.user{background: #CCFFFF;opacity: 0.8;height:3em;}
+form input[name="username"]{width:97%;height:2em;margin-top:-0.7em;border:none;font-size:1.8em;background: #CCFFFF;padding-left:0.5em;margin-bottom:-0.8em;}
+form textarea{width:97%;height:5em;margin-top:1em;font-size:2em;padding-left:0.5em;background: #CCFFFF;border:none;}
+form .xuanyan{border-radius:10px;overflow: hidden;width:99%;margin:0 auto;}
+from a img{border-radius:10px;}
+.wenzi img{margin:0 auto;display: block;}
+.list ul li+li{margin-bottom: 1.5em;}
+.list ul li{position: relative;font-size: 1.2em;}
+.list ul li img{position:absolute;left:-1.2em;top:0.2em;}
+h3 a,li b ,li span{color:#ff6600;}
+

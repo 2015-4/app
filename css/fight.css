@@ -1,0 +1,29 @@
+body,div,ul,li,img,p {margin:0;padding:0;}
+body{width:100%;}
+ul li{list-style: none;padding:0;}
+ h3{text-align: center;}
+.container{width:100%;}
+.bg1 {background: url(../img/img/xuanyan1.jpg) no-repeat;height:1198px;width:100%;position:relative;}
+.bg2 {background: url(../img/img/xuanyan2.jpg) no-repeat;margin-top:-0.2em;height:1086px;width:100%;position:relative;}
+.userRange{position: absolute;top:40%;left:44%;text-align: center;}
+.userRange-user{border: 2px solid red;border-radius:60px;position: absolute;top:-6em;left:-0.3em;width:5em;height:5em;z-index: 30;}
+.xuanyanyu{position:absolute;top:26em;left:3em;width:64%;height:26%;font-size:1.8em;}
+.xuanyanyu span{font-size: 1.2em;width:63%;}
+.tijiao{position:absolute;top:88%;left:0;background: white;height:5.4em;width:100%;}
+.tijiao a img{margin:0 auto;display: block;}
+.bg2 .bg2-lingqu{position: absolute;top:12em;left:10em;}
+.bg2 .bg2-lingqu h3{text-align: center;font-size:2em}
+.bg2 .bg2-b{position: absolute;top:40em;left:8em;width:63%;} 
+.bg2 .bg2-b span{font-size: 1.2em;}
+.bg2 .bg2-b span span{color:#ff6600;}
+.friend-list h3{text-align: center;}
+.friend-list .list-li{position: relative;margin-left:5em;line-height: 1.2em;}
+
+.friend-list li{margin-left:5em;}
+.friend-list ul .list-li{margin-top:1em;}
+.friend-list .list-li div{position: absolute;top:0.2em;left:-3em;border:1px solid #ff6600;border-radius:60px;width:2em;height:2em;}
+.list ul li+li{margin-bottom: 1.5em;}
+.list ul li{position: relative;font-size: 1.2em;margin-left:2em;}
+.list ul li img{position:absolute;left:-1.2em;top:0.2em;}
+.list h3{font-size: 2em;;font-weight:2000;font-family: "微软雅黑";}
+h3 a,li b ,li span{color:#ff6600;}
